@@ -38,7 +38,7 @@ def save_markdown_to_txt(markdown_texts, output_file):
 
 
 # Ruta al archivo .ipynb
-file_path = "./EV1/EV_1_Gonzalo_Cayunao_Erices.ipynb"
+file_path = "./EV2/EV_2_Gonzalo_Cayunao_Erices.ipynb"
 
 # Extraer textos Markdown
 markdown_texts = extract_markdown_from_ipynb(file_path)
